@@ -1,8 +1,8 @@
-#a=int (input( "Juft son kiriting:"))
-#if a%2==0:
- #   print('Rahmat!')
-#else:
-    #print(f'{a} juft emas')
+a=int (input( "Juft son kiriting:"))
+if a%2==0:
+  print('Rahmat!')
+else:
+  print(f'{a} juft emas')
     
 #yosh=int(input('Yoshingizni kiriiting\n'))
 #if yosh<4  or yosh>60:
